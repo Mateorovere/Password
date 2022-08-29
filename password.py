@@ -1,4 +1,4 @@
-#Generate a ramdom password using lowercase, uppercase, numbers and symbbols
+#Generate a random password using lowercase, uppercase, numbers and symbols
 
 import random
 
